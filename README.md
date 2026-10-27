@@ -1,3 +1,5 @@
+# Embedded Anomaly Detection Using Machine Learning
+
 Developed an embedded monitoring prototype using an Arduino Uno, K-type thermocouple with MAX6675 module, and MPU6050 accelerometer to collect temperature and vibration-related data. Used Python for real-time sensor data acquisition and CSV dataset generation, with Random Forest and XGBoost planned for classifying operating conditions and identifying potential anomalies. The project explores the integration of embedded systems and machine learning for vehicle condition monitoring and predictive maintenance.
 
-Technologies: Arduino, Embedded C/C++, Python, Random Forest, XGBoost, MAX6675, MPU6050.
+**Technologies:** Arduino, Embedded C/C++, Python, Random Forest, XGBoost, MAX6675, MPU6050.
